@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alittle1988
 - 👀 I’m interested in learning to write code.
-- 🌱 I’m currently learning html and CSS begginer web-development. 
+- 🌱 I’m currently learning react.js and express.js. 
 - 💞️ I’m looking to collaborate on anything that will help me better understand and develope my skills in writting code. 
 - 📫 How to reach me andylittle88@gmail.com
 
